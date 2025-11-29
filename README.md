@@ -16,3 +16,12 @@ SteamLibrary\steamapps\common\Half-Life\valve\cl_dlls\
 **2.** Launch the game. The main view bobbing should now be gone.
 
 if you have any problems email me at magnet.magnetic448@passfwd.com
+
+# NOTE
+I now realise there are commands in the console for this 
+
+clear side to side roll/sway sv_rollangle 0
+
+prevent viewbobbing cl_bob 0
+
+I was just gaslighted by the internet but either way ill keep this patch up for whoever wants it.
